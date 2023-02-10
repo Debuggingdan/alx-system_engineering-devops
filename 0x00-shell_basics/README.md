@@ -1,1 +1,1 @@
-#Script that creates a directory
+#Script that moves a file to a directory
