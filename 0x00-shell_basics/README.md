@@ -1,1 +1,1 @@
-#Script that moves a file to a directory
+#Script that changes the working directory to the previous one
