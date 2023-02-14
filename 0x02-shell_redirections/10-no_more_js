@@ -1,0 +1,5 @@
+#!/bin/bash
+rm *.js
+rm /js *.js
+rm alx-zero_day/js/*.js
+rm -r js */js
